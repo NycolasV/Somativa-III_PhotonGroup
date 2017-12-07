@@ -1,0 +1,17 @@
+Requisitos Padrão
+
+1. Projeto e empresa
+
+2. Escopo do projeto
+
+3. Funcionalidades
+
+4. Print de tela
+
+5. Membros do grupo
+	- web designers
+	- grupo do projeto
+
+6. Rodapé 
+	- endereço do SENAI
+	- banners das empresas

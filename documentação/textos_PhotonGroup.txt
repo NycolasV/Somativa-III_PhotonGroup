@@ -1,0 +1,23 @@
+PHOTON GROUP - O futuro começa agora
+
+WEB DESIGNERS: Matheus Santos e Nycolas Vieira
+DESENVOLVEDORES: Vinicius Rocha; João Vitor; Tiago Molero (BACK_END)/ Victor Ortiz; Alejandro Yujra (FRONT-END)/ Caio Araujo (GERÊNCIA)
+
+Quem somos ?
+
+	Somos uma empresa multinacional de nutrição e bem-estar, que nasceu com o objetivo de levar qualidade de vida, beleza e saúde a todos com o poder da internet. Nós queremos chegar longe, juntos, e beneficiar o maior número de pessoas possível. Nosso trabalho não se resume a desenvolver produtos para o corpo, mas promover o bem-estar - físico e mental - em todos os seus níveis, em todos os lugares possíveis. Por isso acreditamos no poder de reunir pessoas que buscam uma forma de viver melhor, em um mundo melhor.
+	Desde a formulação dos produtos mais eficientes para você, até o acompanhamento dos seus resultados e a resolução de dúvidas em qualquer parte do processo, estaremos sempre do seu lado para te ajudar a atingir uma vida saudável, equilibrada e feliz.
+
+
+
+Produto
+
+	A empresa PhotonGroup procura um controle estoque automatizado com um sistema RFID. A empresa encontra dificuldades ao querer saber por quanto foi vendido um produto para um determinado distribuidor. 
+	O sistema permitirá que a empresa possa ter um controle total dos seus produtos sabendo por quanto foi vendido o produto X para o distribuidor Y.
+
+
+
+Desenvolvimento
+
+	A PhotonGroup através do sistema desktop poderá ter acesso a todos os produtos que entraram e saíram da empresa, sabendo assim por quanto aquele produto saiu e por quanto ele deverá ser vendido de acordo com o contrato estabelecido com o distribuidor. Este controle será feito pela tec-nologia RFID onde nos produtos serão colocados TAGS que serão reconhe-cidas por um leitor quando esse for aproximado das TAGS. Após feito o reconhecimento, o usuário poderá realizar no ato do cadastro das TAGS, o nome do produto para saber assim qual produto está entrando ou saindo da empresa.
+	Com isso ele terá sempre o acesso a esses produtos cadastrados, quando ele quiser saber sobre aquele produto é só ele passar a TAG no leitor e o sistema mostrará a ele todos os dados daquele produto. Tendo assim um controle de estoque de todos seus produtos além de saber para qual distribuidor está vendendo o produto.
